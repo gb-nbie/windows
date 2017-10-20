@@ -2,3 +2,4 @@ total 0
 total 0
 total 0
 -rw-r--r-- 1 admin 197121 0 10月 20 20:56 hh.txt
+welcome to python programming world
